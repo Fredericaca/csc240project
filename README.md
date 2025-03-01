@@ -1,4 +1,9 @@
 # csc240project
+
+### Dataset:
+
+[Kaggle: Amazon Products Dataset 2023 (1.4M Products)](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products?select=amazon_products.csv)
+
 ### Current Todo: 
 - [ ] proposal due next  Wednesday:
 	- [ ] Datasets on kaggle [due this saturday afternoon]
