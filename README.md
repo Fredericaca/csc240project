@@ -65,7 +65,7 @@ For Zijie:
 	- [ ] github(2h):
 		- [x] vscode setup
 		- [ ] web client
-		- [ ] terminal
+		- [x] terminal
 	- [ ] Latex(2h~2 day，推荐学1天以上)
     	- [ ] [Learn latex in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
     	- [ ] Overleaf
